@@ -1,4 +1,4 @@
-import java.util.Scanner; // Github 1
+import java.util.Scanner; // Github 2
 
 public class HexAndBinaryDecoder {
 
